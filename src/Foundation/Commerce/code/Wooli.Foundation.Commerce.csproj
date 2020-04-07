@@ -726,7 +726,6 @@
     <Compile Include="Services\Analytics\CommerceAnalyticsService.cs" />
     <Compile Include="Repositories\BaseCheckoutRepository.cs" />
     <Compile Include="Repositories\BillingRepository.cs" />
-    <Compile Include="Repositories\CartRepository.cs" />
     <Compile Include="Repositories\Contracts\IAccountRepository.cs" />
     <Compile Include="Services\Analytics\ICommerceAnalyticsService.cs" />
     <Compile Include="Repositories\OrderRepository.cs" />
@@ -734,7 +733,6 @@
     <Compile Include="Repositories\Contracts\IBillingRepository.cs" />
     <Compile Include="Repositories\Contracts\ICheckoutRepository.cs" />
     <Compile Include="Repositories\Contracts\IDeliveryRepository.cs" />
-    <Compile Include="Repositories\Contracts\ICartRepository.cs" />
     <Compile Include="Repositories\DeliveryRepository.cs" />
     <Compile Include="Repositories\Contracts\IOrderRepository.cs" />
     <Compile Include="Context\Contracts\IVisitorContext.cs" />
